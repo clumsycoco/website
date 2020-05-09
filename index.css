@@ -1,0 +1,94 @@
+h1 {
+    color: burlywood;
+    font-size: 4rem;
+    line-height: 0;
+}
+h2 {
+    line-height: 1;
+    color: burlywood
+}
+p {
+    color: rgb(56, 55, 53);
+}
+
+body {
+    background-color: #204051;
+    text-align: center;
+    font-family: "raleway";
+}
+
+.bottom-cloud {
+    position: absolute;
+    height: 25px;
+    right: 400px;
+   
+}
+.middle-cloud {
+    position: absolute;
+    height: 35px;
+    left: 400px;
+}
+.florist{
+    margin-top: 20px;
+    height: 200px;
+    width: 200px;
+}
+.me{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    height: 250px;
+    width: 250px;
+}
+
+.skill {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-right: 20px;
+    height: 200px;
+    width: 200px;
+}
+
+
+.top{
+    background-color: #3b6978;
+    position: relative;
+    padding-top: 15px;
+    width:100%;
+    height: 650px;  
+    margin-bottom: 10px; 
+}
+.middle {
+    background-color: #84a9ac;
+    position: relative;
+    width: 100%; 
+    height: 650px;
+    margin-bottom: 10px;
+}
+.bottom {
+    background-color: #3b6978;
+    position: relative;
+    width: 100%;
+    height: 650px;
+    margin-bottom: 10px;
+}
+.contact{
+    background-color: #84a9ac;
+    position: relative;
+    width: 100%;
+    height: 100px;
+}
+.information {
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+hr {
+    border-color: #204051;
+    border-style: none;
+    border-top-style: dotted;
+    width: 10%;
+    border-width: 10px;
+}
+
+    
