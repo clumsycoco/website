@@ -1,8 +1,1 @@
-![selfie](https://user-images.githubusercontent.com/63516597/81475803-56af2780-9206-11ea-9967-a8bfd670e553.png)
-![furniture](https://user-images.githubusercontent.com/63516597/81475804-57e05480-9206-11ea-930a-0a24f6130916.png)
-![macrame](https://user-images.githubusercontent.com/63516597/81475806-5878eb00-9206-11ea-998a-e205a4e7c040.png)
-![baking](https://user-images.githubusercontent.com/63516597/81475807-5878eb00-9206-11ea-9b34-8756e82ed00a.png)
-![florist](https://user-images.githubusercontent.com/63516597/81475808-59118180-9206-11ea-9fbd-b78de0424b8f.png)
-![circle-cropped](https://user-images.githubusercontent.com/63516597/81475809-59aa1800-9206-11ea-96c0-0aecc9c44d64.png)
-![mountain](https://user-images.githubusercontent.com/63516597/81475810-59aa1800-9206-11ea-8d90-07c2b861f43b.png)
-![cloud](https://user-images.githubusercontent.com/63516597/81475811-5a42ae80-9206-11ea-8f1b-8ecbc89c633a.png)
+
